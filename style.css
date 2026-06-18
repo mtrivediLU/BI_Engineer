@@ -106,15 +106,19 @@ h3 {
 }
 
 h1 {
-  max-width: 10ch;
+  max-width: 11ch;
   margin-bottom: 22px;
-  font-size: clamp(4.1rem, 11vw, 9rem);
+  font-size: clamp(3.25rem, 7.6vw, 6.25rem);
+  line-height: 1.03;
+  letter-spacing: -0.045em;
 }
 
 h2 {
-  max-width: 15ch;
+  max-width: 22ch;
   margin-bottom: 16px;
-  font-size: clamp(2.4rem, 5.8vw, 5.2rem);
+  font-size: clamp(2rem, 4.2vw, 3.75rem);
+  line-height: 1.08;
+  letter-spacing: -0.035em;
 }
 
 h3 {
